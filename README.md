@@ -4,3 +4,4 @@ tmp
 Here it is
 
 This is written in BranchA
+BranchA deleted
