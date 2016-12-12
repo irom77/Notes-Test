@@ -7,3 +7,4 @@ This is written in BranchA
 BranchA deleted
 
 README changed on github
+Tag VersionA added
